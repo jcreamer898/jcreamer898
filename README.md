@@ -1,6 +1,6 @@
 ![](https://d.pr/i/t8opIT+)
 
-JavaScript and front end technologies are my passion. I also believe that you cannot ever stop learning which is why I stay active in the development community attending user groups like http://nashjs.org, and NashDotNet, blogging on http://jonathancreamer.com, Net Tuts, and Smashing Magazine, tweeting at jcreamer898 and scouring the internet for as much knowledge I can squeeze into my brain.
+JavaScript and front end technologies are my passion. I also believe that you cannot ever stop learning which is why I stay active in the development community attending user groups like http://nashjs.org, and NashDotNet, blogging on http://jonathancreamer.com, [Net Tuts](https://tutsplus.com/authors/jonathan-creamer), and [Smashing Magazine](https://www.smashingmagazine.com/author/jonathancreamer/), tweeting at [jcreamer898](https://twitter.com/jcreamer898) and scouring the internet for as much knowledge I can squeeze into my brain.
 
 I work as a Senior Engineer at Eventbrite. I love meeting other devs who are passionate about what they do.
 
